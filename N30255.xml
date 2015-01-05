@@ -118,8 +118,8 @@
    <text xml:lang="unk">
       <body>
          <div type="text">
-            <pb facs="tcp:040197_0000_1016359366362678"/>
-            <pb facs="tcp:040197_0001_1016359610934D28"/>
+            <pb facs="unknown:040197_0000_1016359366362678"/>
+            <pb facs="unknown:040197_0001_1016359610934D28"/>
             <head>The Manufactory Scheme</head>
             <head type="sub">In Consequence of the Scheme which is inserted in the Book of Records of the Manufactory Company, proposing a Medium of Trade and Business by an Emission of Notes of Hand, or Bills on Land Security, Redeemable by the Ma<g ref="char:EOLhyphen"/>nufactures or Produce of the Province of the Massachusetts-Bay; the Directors (chosen by the Subscribers thereto on July 30th last) have unanimously this Day agreed on the following Articles, including and expressing the Meaning and Intention of that Scheme, and for the Prosecution of it, which are to be esteemed Fundamental.</head>
             <p n="1">1. THE Stock of Bills to be Emitted shall be to the Value of <hi>One Hundred and fifty Thousand Pounds</hi> Lawful Money, equal to Silver Coin at <hi>six Shillings and eight Pence</hi> per Ounce, and no more.</p>
@@ -182,7 +182,7 @@
                      <desc>〈…〉</desc>
                   </gap> Com<g ref="char:EOLhyphen"/>pany.</p>
                <p n="3">
-                  <pb facs="tcp:040197_0002_1016359A029506A8"/>
+                  <pb facs="unknown:040197_0002_1016359A029506A8"/>
 3. That they will pay to each Partner his Executors Administrators or Assigns on Demand, his and their rateable Part of every Dividend of the Companys Profits, to be agreed upon at any General Meeting of the Partners, by the major Part of the Partners present, concurring with the major Part of the Directors, and after the Expiration of Twenty Years to pay to each Partner, his Executors Administrators or Assigns, according to his or their respective Interests, all such Dividends as shall be agreed upon by the major Part of the Partners, outstanding Bills, and contingent Charges always to be first satisfied.</p>
                <p n="4">4. That the said Directors Do severally Covenant with each Partner, his Executors, Administrators and Assigns, <abbr>
                      <hi>viz.</hi>
@@ -273,7 +273,7 @@
                      <desc>〈◊〉</desc>
                   </gap>.</p>
                <p n="9">
-                  <pb facs="tcp:040197_0003_1016359C965F7E48"/>
+                  <pb facs="unknown:040197_0003_1016359C965F7E48"/>
 9. The Directors shall appoint Clerks and other Attendants, as they find it necessary, agree with them for their Salaries, and as there may be Occasion, again dismiss them and choose others, which Clerks shall be under Oath, and give Security for the faithful Discharge of their Trusts.</p>
                <p n="10">10. No Person shall be capable of being a Director or Treasurer who undertakes for less than <hi>Five Hundred Pounds,</hi> and if any Directors or Treasurer die, or is removed from his Office, the Vacancy shall be filled at the next Meeting of the Company by a major Vote of the Partners present (the Di<g ref="char:EOLhyphen"/>rectors in Case of Death or Removal of a Treasurer to choose a new one in the mean time) and if any Director or Treasurer be found guilty of any Fraud in the Execution of his Office, any four of the Directors concurring with a major Part of the Partners, such Treasurer or Directors shall be Re<g ref="char:EOLhyphen"/>moved from his Trusts, his Mortgage be put in Suit, and he be declared to be a Partner no longer.</p>
                <p n="11">11. All the Mortgages given by the Undertakers shall be duly executed, and put on Record in the Registry of Deeds of the County where such Mortgaged Lands respectively lie.</p>
@@ -289,7 +289,7 @@
                <p n="21">21. No Alteration shall be made of a Fundamental Article, but by the Consent of the Government, had to the Determination of the major Part of the Partners, concurring with the major Part of the Directors.</p>
                <p n="22">22. Any one of the Clerks of the Directors, shall at any Time on Demand (for reasonable Pay as al<g ref="char:EOLhyphen"/>lowed in othe Offices) give to any Person desiring the same, a Copy of any Part of the Records, duly attested under his Hand.</p>
                <p n="23">
-                  <pb facs="tcp:040197_0004_101635A1924B6D08"/>
+                  <pb facs="unknown:040197_0004_101635A1924B6D08"/>
 23. An Attested Copy of this Scheme from the Record shall be Registred in the Secretary's Office in <hi>Boston</hi> (if permitted) and publick Notice given of it when done, or otherwise in some other publick Office in this Province, and publick Notice given accordingly.</p>
                <p>The aforegoing Scheme being the Substance and essential Part of the Scheme first projected for the Ends first mentioned, upon frequent and long Deliberations of the Directors, thus digested, amended, and altered, so far only as was necessary, thereby the better to attain the Ends first proposed, and to prevent any Doubts that might arise concerning the true and honest Meaning of the same, the Directors do now set hereunto their Hands and Seals in <hi>Boston,</hi> this eighth Day of <hi>September, Anno Domini,</hi> One Thousand Seven Hundred and Forty.</p>
                <closer>
@@ -350,7 +350,7 @@ PErsonally appeared <hi>Robert Auchmuty, George Leonard, Samuel Adams, Robert Ha
                   <hi>A true Copy,</hi> 
                   <signed>Attest. Will<hi rend="sup">m.</hi> Story, Clerk.</signed>
                </closer>
-               <pb facs="tcp:040197_0005_101635A319E136B0"/>
+               <pb facs="unknown:040197_0005_101635A319E136B0"/>
             </div>
          </div>
       </body>
